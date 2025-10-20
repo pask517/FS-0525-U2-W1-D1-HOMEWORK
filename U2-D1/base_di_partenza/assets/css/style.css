@@ -178,3 +178,25 @@ footer {
 footer a {
     color: fuchsia;
 }
+@media screen and (min-width:1200px ){
+    header {
+        height: 300px;
+        text-align: left;
+    }
+header div img{
+    height: 50px;
+    display: inline-block;
+}
+header div{
+    display: inline-block;
+}
+header nav { 
+    display: inline-block;
+    position: relative;
+    r
+}
+header p{
+    display: inline-block;
+}
+}
+    
